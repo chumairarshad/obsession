@@ -133,3 +133,4 @@ with open('src/styles.css', 'w', encoding='utf-8') as f:
     f.write(css)
 
 print("CSS refined successfully!")
+
